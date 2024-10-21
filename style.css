@@ -1,0 +1,47 @@
+/* هذا ملف الcss*/@import url('https://fonts.googleapis.com/css2?family=Kurale&family=Protest+Guerrilla&display=swap');
+*{
+    margin: 0;
+}
+
+p{
+    color: blueviolet;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+#demo {
+    text-decoration: underline;
+    text-decoration-style: double;
+    padding: 20px 15px;
+    background-color: red;
+    width: 10px;
+    height: 10px;
+    border-radius: 5px;
+  }
+  #section4{
+    background-color: red;
+  }
+  #header{
+    background-color: rgb(204, 250, 246);
+   
+  }
+  .demo{
+    text-decoration: underline;
+    text-decoration-style:dotted;
+    cursor: pointer;
+  }
+nav > .bu{
+    background-color: blue;
+}
+h1{
+  color: brown !important;
+}
+h1{
+  color: aqua;
+}
+h1{  font-family: "Protest Guerrilla", sans-serif;
+  font-weight: 400;
+  font-style: normal;}
+  input:focus{
+font-size: 70px;
+  }
